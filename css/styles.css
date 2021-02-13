@@ -21,7 +21,6 @@ header{
     background-color: #12B29C;
     padding: 5px;
     padding-bottom: 15px;
-    margin: 0px;
 }
 
 p{
@@ -80,7 +79,8 @@ nav.menu-nav ul li.btn:hover a{
 }
 
 nav.menu-nav{
-  margin-left: 800px;
+    margin-left: 600px;
+    margin-top: 25px;
 }
 
 img.logo {
@@ -122,4 +122,33 @@ div#content div.midle{
 h1.zebi{
     text-align: center;
     margin-top: 100px;
+}
+
+.scroller {
+    width: 300px;
+    height: 100px;
+    overflow-y: scroll;
+    scrollbar-color: #12B29C;
+    scrollbar-width: thin;
+  }
+
+  nav.addme ul li.btnadd{
+	list-style-type: none;
+	display: inline-block;
+	font-size: 25px;
+    vertical-align: middle;
+    margin-top: 15px;
+    text-align: center;
+}
+nav.addme ul li.btnadd a{
+	color: white;
+	background-color: #12B29C;
+	text-decoration: none;
+	padding: 5px;
+    margin-top: 15px;
+}
+nav.addme ul li.btnadd:hover a{
+	background-color: white;
+	transition: 0.4s all;
+	color:  #FF0101;
 }
