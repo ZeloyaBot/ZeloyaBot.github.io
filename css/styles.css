@@ -17,6 +17,11 @@ header p.site{
 	vertical-align: top;
 }
 
+header nav.menu-nav{
+	display: inline-block;
+	vertical-align: top;
+}
+
 header{
     background-color: #12B29C;
     padding: 5px;
@@ -80,7 +85,6 @@ nav.menu-nav ul li.btn:hover a{
 
 nav.menu-nav{
     margin-left: 600px;
-    margin-top: 25px;
 }
 
 img.logo {
