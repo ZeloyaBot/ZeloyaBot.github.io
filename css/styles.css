@@ -1,0 +1,126 @@
+li.btn{
+    display: inline-flex;
+    list-style: square;
+}
+a{
+    text-decoration: none;
+}
+
+p.site{
+   font-size: 30px;
+   color: white;
+   margin-top: 25px;
+}
+
+header p.site{
+	display: inline-block;
+	vertical-align: top;
+}
+
+header{
+    background-color: #12B29C;
+    padding: 5px;
+    padding-bottom: 15px;
+    margin: 0px;
+}
+
+p{
+    color: white;
+}
+
+h1{
+    color: white
+}
+body{
+    background-color: #1F242D;
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div.rightbox{
+    display: block;
+}
+/*
+  Styles footer
+*/
+footer{
+	background-color: #111313;
+	padding: 5px;
+    padding-bottom: 50px;
+    
+}
+p.footer{
+	color: white;
+	padding-left: 35%;
+}
+
+/* 
+  Styles menu nav^^
+*/
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+	font-size: 25px;
+    vertical-align: middle;
+    margin-top: 15px;
+    text-align: center;
+}
+nav.menu-nav ul li.btn a{
+	color: white;
+	background-color: #12B29C;
+	text-decoration: none;
+	padding: 5px;
+    margin-top: 15px;
+}
+nav.menu-nav ul li.btn:hover a{
+	background-color: white;
+	transition: 0.4s all;
+	color:  #FF0101;
+}
+
+nav.menu-nav{
+    margin-left: 800px;
+    width: 50%;
+}
+
+img.logo {
+	width: 80px;
+	height: 80px;
+}
+
+header img.logo{
+	border-radius: 50%;
+}
+
+/* 
+  Mais div zebi
+*/
+
+
+div#content div{
+   display: inline-block;
+   width: 49%;
+}
+
+div#content div.leftbox{
+    vertical-align: top;
+}
+div#content div.leftbox h1, p{
+	margin: 10px;
+	color: white;
+}
+
+div#content div.rigthbox{
+	color: white;
+    margin-top: 200px;
+}
+
+div#content div.midle{
+	color: white;
+    text-align: center;
+}
+h1.zebi{
+    text-align: center;
+    margin-top: 100px;
+}
