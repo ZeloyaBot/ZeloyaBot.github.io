@@ -53,13 +53,13 @@ div.rightbox{
 /*
   Styles footer
 */
-footer{
+.footerbgr{
 	background-color: #111313;
 	padding: 5px;
     padding-bottom: 50px;
     
 }
-footer p.footer{
+div p.footer{
 	color: white;
 	padding-left: 35%;
     display: inline-block;
@@ -175,7 +175,7 @@ nav.addme ul li.btnadd:hover a{
     margin-top: 100px;
 }
 
-strong{
+strong.embed{
     background-color: rgb(0, 0, 0);
     padding: 5px;
     border-radius: 15%;
@@ -235,4 +235,16 @@ h1 div.btn-group{
 .btn{
     padding-left: 50px;
     padding-right: 50px;
+}
+
+.color-dark{
+    color: black;
+}
+
+.color-white{
+    color: white; 
+}
+
+.bgr-dark2{
+    background-color: #111313;
 }
