@@ -22,6 +22,11 @@ header nav.menu-nav{
 	vertical-align: top;
 }
 
+header nav.navbar{
+	display: inline-block;
+    background-color: #12B29C;
+}
+
 header{
     background-color: #12B29C;
     padding: 5px;
@@ -54,9 +59,10 @@ footer{
     padding-bottom: 50px;
     
 }
-p.footer{
+footer p.footer{
 	color: white;
 	padding-left: 35%;
+    display: inline-block;
 }
 
 /* 
@@ -155,4 +161,36 @@ nav.addme ul li.btnadd:hover a{
 	background-color: white;
 	transition: 0.4s all;
 	color:  #FF0101;
+}
+
+.bgr{
+    background-color: #171a20;
+}
+
+.textcenter{
+    text-align: center;
+}
+
+.margintop{
+    margin-top: 100px;
+}
+
+strong{
+    background-color: rgb(0, 0, 0);
+    padding: 5px;
+    border-radius: 15%;
+}
+
+.btn-outline-primary{
+    padding: 15pw;
+}
+
+footer div.dropdown{
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.cyan{
+    background-color: #12B29C;
 }
