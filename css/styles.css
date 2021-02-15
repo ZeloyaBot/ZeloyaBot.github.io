@@ -228,10 +228,11 @@ footer div.dropdown{
     background-color: #ff00ff;
 }
 
-h1 nav.addme{
-    display: inline-block;
+h1 div.btn-group{
+    display: block;
 }
 
-h1 div.btn-group{
-    display: inline-block;
+.btn{
+    padding-left: 50px;
+    padding-right: 50px;
 }
