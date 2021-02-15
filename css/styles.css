@@ -227,3 +227,11 @@ footer div.dropdown{
 .bg-lights{
     background-color: #ff00ff;
 }
+
+h1 nav.addme{
+    display: inline-block;
+}
+
+h1 div.btn-group{
+    display: inline-block;
+}
