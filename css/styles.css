@@ -188,9 +188,34 @@ strong{
 footer div.dropdown{
     display: inline-block;
     vertical-align: top;
+    margin-left: 300px;
 
 }
 
 .cyan{
     background-color: #12B29C;
+}
+
+.contentcenter{
+    align-content: center;
+}
+
+.test{
+    text-align:justify;
+}
+
+.cmdname{
+    background-color: #181c24;
+}
+
+.cmddesc{
+    background-color: #13161b;
+}
+
+.cmdusage{
+    background-color: #0e1014;
+}
+
+.machin{
+    background-color: #010102
 }
