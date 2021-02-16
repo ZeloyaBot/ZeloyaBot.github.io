@@ -248,3 +248,104 @@ h1 div.btn-group{
 .bgr-dark2{
     background-color: #111313;
 }
+
+.ni-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.ni-2x {
+  font-size: 2em;
+}
+.ni-3x {
+  font-size: 3em;
+}
+.ni-4x {
+  font-size: 4em;
+}
+.ni-5x {
+  font-size: 5em;
+}
+
+.bgr-dsc2{
+    background: url("https://zeloya.tk/img/bgr-dsc2.jpg") no-repeat;
+    background-size: 100%;
+}
+
+.nav-opace{
+    background:transparent;
+}
+
+.ff{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.w-50{
+    width: 50;
+}
+
+.bgr-dsc{
+    background: url("https://zeloya.tk/img/bgr-dsc.jpg") no-repeat;
+    background-size: 100%;
+}
+
+.w-45{
+    width: 45%;
+}
+
+.w-40{
+    width: 40%;
+}
+
+.w-35{
+    width: 35%;
+}
+
+.w-30{
+    width: 30%;
+}
+
+.w-25{
+    width: 25%;
+}
+
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.mb-15{
+    margin-bottom: 15px;
+}
+
+.mb-20{
+    margin-bottom: 20px;
+}
+
+.mb-25{
+    margin-bottom: 25px;
+}
+
+.mt-20{
+    margin-top: 20px;
+}
+
+.mt-15{
+    margin-top: 15px;
+}
+
+.mr-15{
+    margin-right: 15px;
+}
+
+.f-dark{
+    color: black;
+}
+
+.everesport{
+    height: 150px;
+    width: 150px;
+}
+
+.bg-fushia{
+    background-color: #ff00ff;
+}
